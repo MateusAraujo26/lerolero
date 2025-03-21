@@ -6,7 +6,8 @@ Gera frases de efeito sem significado real."""
 
 import random
 
-parte1 = ["O sistema em desenvolvimento" , "O novo protocolo de comunicação", "O algoritmo de otimização"]
+
+parte1 = ["O sistema em desenvolvimento" , "O novo protocolo de comunicação", "O algoritmo foi otimizado e"]
 parte2 = ["possui excelente desempenho", "oferece garantias de precisão acima da média", "preenche uma lacuna significativa"]
 parte3 = ["nas aplicações a que se destina", "em relação às opções disponível no mercado" , ", provendo ampla vantagem competitiva a seus usuários"]
 
