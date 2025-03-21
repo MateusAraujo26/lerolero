@@ -1,6 +1,6 @@
 #!/usr/bin/python3
-#https://github.com/MateusAraujo26/lerolero.git
-
+"""https://github.com/MateusAraujo26/lerolero.git
+"""
 
 """Gerador de lero-lero
 
